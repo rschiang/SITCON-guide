@@ -1,4 +1,3 @@
-* [序言](Ch0-Introduction.md)
 * [關於 SITCON](Ch1-AboutSITCON.md)
 * [社群精神](Ch2-CommunitySpirit.md)
     - [Release early, release often](Ch2.1-ReleaseEarly.md)
